@@ -1,0 +1,2 @@
+# kernelpanic
+kernel panic script 
